@@ -36,7 +36,11 @@ def decimal_to_octal(dec):
 
 def decimal_to_hexadecimal(dec):
     decimal = int(dec)
-      
+
+    
+
+    
+         
 def calculate():
     operation = input('''
 Please type in the math operation you would like to complete:
@@ -183,3 +187,6 @@ to continue
         again()
 
 calculate()
+
+
+
