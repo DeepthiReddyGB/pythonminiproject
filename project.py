@@ -60,7 +60,7 @@ Hex for decimal to Hexadecimal
         num2 = int(input('Please enter the second number: '))
         print(num1, "+", num2, "=", add(num1, num2))
         output = str(add(num1,num2) )
-        f = open("demofile1.txt", "w+")
+        f = open("demofile3.txt", "w+")
         f.write(output)
         f.close()
 
@@ -71,7 +71,7 @@ Hex for decimal to Hexadecimal
         num2 = int(input('Please enter the second number: '))
         print(num1, "-", num2, "=", subtract(num1, num2))
         output = str(subtract(num1,num2) )
-        f = open("demofile2.txt", "w+")
+        f = open("demofile3.txt", "w+")
         f.write(output)
         f.close()
 
@@ -92,7 +92,7 @@ Hex for decimal to Hexadecimal
         num2 = int(input('Please enter the second number: '))
         print(num1, "/", num2, "=", divide(num1, num2))
         output = str(divide(num1,num2) )
-        f = open("demofile4.txt", "w+")
+        f = open("demofile3.txt", "w+")
         f.write(output)
         f.close()
 
