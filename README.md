@@ -4,3 +4,6 @@ project.py is the python project file and testcases will run after performing th
 
 
 [![Pytest file](https://github.com/DeepthiReddyGB/pythonminiproject/actions/workflows/projectpy_test.yml/badge.svg)](https://github.com/DeepthiReddyGB/pythonminiproject/actions/workflows/projectpy_test.yml)
+
+
+[![Project](https://github.com/DeepthiReddyGB/pythonminiproject/actions/workflows/project.yml/badge.svg)](https://github.com/DeepthiReddyGB/pythonminiproject/actions/workflows/project.yml)
